@@ -1,0 +1,87 @@
+<header>
+<nav class="navbar" >
+      <a class="navbar-brand" href="#" style="padding-left: 2%;">
+        <img src="/ImgWeb/Logos/logo2.webp" style="width: 5ch; height: 5ch ;" alt="Logo" 
+         class="d-inline-block align-text-top" >
+        Minimercado "Griselda"
+    </a>
+
+    <div style="width: 50%; height: fit-content;;">
+      <!--btn CREAR CUENTA E INICIAR SESION-->
+      <!-- inicio sesion -->
+<button type="button" class="btn btn-primary" data-bs-toggle="modal"
+ data-bs-target="#exampleModal0">
+    Iniciar sesion
+  </button>
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal0" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="exampleModalLabel">--INICIAR SESION--</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <form>
+            <div class="mb-3">
+              <label for="exampleInputEmail1" class="form-label">Correo</label>
+              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+              <div id="emailHelp" class="form-text">Ingresa aqui tu direccion de correo</div>
+            </div>
+            <div class="mb-3">
+              <label for="exampleInputPassword1" class="form-label">Contraseña</label>
+              <input type="password" class="form-control" id="exampleInputPassword1">
+            </div>
+            <div class="mb-3 form-check">
+              <input type="checkbox" class="form-check-input" id="exampleCheck1">
+              <label class="form-check-label" for="exampleCheck1">Check me out</label>
+            </div>
+            <button type="submit" class="btn btn-primary">Ingresar</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- crear cuenta -->
+<button type="button" class="btn btn-primary" data-bs-toggle="modal"
+ data-bs-target="#exampleModal1">
+    Crear cuenta
+  </button>
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal1" tabindex="-1" aria-labelledby="exampleModalLabel" 
+  aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="exampleModalLabel">--CREAR CUENTA--</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+            <form class="row g-3">
+                <div class="col-md-4">
+                  <label for="validationDefault01" class="form-label">Nombre</label>
+                  <input type="text" class="form-control" id="validationDefault01" value="Mark" required>
+                </div>
+                <div class="col-md-4">
+                  <label for="validationDefault02" class="form-label">Apellido</label>
+                  <input type="text" class="form-control" id="validationDefault02" value="Otto" required>
+                </div>
+                <div class="col-md-4">
+                  <label for="validationDefaultUsername" class="form-label">Correo</label>
+                  <div class="input-group">
+                    <span class="input-group-text" id="inputGroupPrepend2"></span>
+                    <input type="text" class="form-control" id="validationDefaultUsername" aria-describedby="inputGroupPrepend2" required>
+                  </div>
+                </div>
+                <div class="col-12">
+                  <button class="btn btn-primary" type="submit">CREAR CUENTA</button>
+                </div>
+              </form>
+        </div>
+      </div>
+    </div>
+  </div>
+    </div>
+  </nav>
+
+</header>

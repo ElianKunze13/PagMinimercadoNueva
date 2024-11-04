@@ -1,0 +1,6 @@
+#catalogo{
+    background-image: url("/ImgWeb/imagen\ fondo.jpg");
+    background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
