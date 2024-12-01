@@ -1,0 +1,61 @@
+[{
+    "imagen":{
+        "url": "assets/ImgWeb/AseoPers/APtoallaFem1.webp",
+        "alt": "Image 1"},
+    "titulo": "ap0",
+    "precio": "5245"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/AseoPers/papelHigElegante.webp",
+        "alt": "Image 2"},
+    "titulo": "ap1",
+    "precio": "1600"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/AseoPers/papelHigienico1.webp",
+        "alt": "Image 3"},
+    "titulo": "ap2",
+    "precio": "3685"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/AseoPers/parCepilloColgate.webp",
+        "alt": "Image 4"},
+    "titulo": "ap3",
+    "precio": "5861"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/AseoPers/pastaDenColgate.png",
+        "alt": "Image 5"},
+    "titulo": "ap4",
+    "precio": "841"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/AseoPers/pastaDenIdol.jpg",
+        "alt": "Image 6"
+    },
+    "titulo": "ap5",
+    "precio": "68"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/AseoPers/peinePlastico.jpg",
+        "alt": "Image 7"
+    },
+    "titulo": "ap6",
+    "precio": "24"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/AseoPers/rasuradora1.jpg",
+        "alt": "Image 8"
+    },
+    "titulo": "ap7",
+    "precio": "648"
+    }
+
+]

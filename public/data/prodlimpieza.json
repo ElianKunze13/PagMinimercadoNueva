@@ -1,0 +1,61 @@
+[{
+    "imagen":{
+        "url": "assets/ImgWeb/ProdLimp/antigrasaCif.jpg",
+        "alt": "Image 1"},
+    "titulo": "pl0",
+    "precio": "52"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/ProdLimp/detergenteAla.jpg",
+        "alt": "Image 2"},
+    "titulo": "pl1",
+    "precio": "1000"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/ProdLimp/jabonPanArgentino.webp",
+        "alt": "Image 3"},
+    "titulo": "pl2",
+    "precio": "35"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/ProdLimp/jabonPanSeiseme.jpg",
+        "alt": "Image 4"},
+    "titulo": "pl3",
+    "precio": "531"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/ProdLimp/jabonPolvoAla.jpg",
+        "alt": "Image 5"},
+    "titulo": "pl4",
+    "precio": "3652"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/ProdLimp/lavandinaAyudin.jpg",
+        "alt": "Image 6"
+    },
+    "titulo": "pl5",
+    "precio": "75232"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/ProdLimp/limLiquidoPisoCif.webp",
+        "alt": "Image 7"
+    },
+    "titulo": "pl6",
+    "precio": "984"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/ProdLimp/suavizanteRopaHeroa.gif",
+        "alt": "Image 8"
+    },
+    "titulo": "pl7",
+    "precio": "945"
+    }
+
+]

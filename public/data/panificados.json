@@ -1,0 +1,69 @@
+[{
+    "imagen":{
+        "url": "assets/ImgWeb/PanMasita/panIntegralFargo.jpg",
+        "alt": "Image 1"},
+    "titulo": "p0",
+    "precio": "5682"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/PanMasita/panFargoComun.jpg",
+        "alt": "Image 2"},
+    "titulo": "p1",
+    "precio": "2451000"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/PanMasita/pancomun.jpg",
+        "alt": "Image 3"},
+    "titulo": "p2",
+    "precio": "5435"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/PanMasita/masitaTerrabusi.webp",
+        "alt": "Image 4"},
+    "titulo": "p3",
+    "precio": "5631"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/PanMasita/masitaPitusa.jpg",
+        "alt": "Image 5"},
+    "titulo": "p4",
+    "precio": "9755"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/PanMasita/masitaFrutigran.jpg",
+        "alt": "Image 6"
+    },
+    "titulo": "p5",
+    "precio": "333"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/PanMasita/masitaFiesta.jpg",
+        "alt": "Image 7"
+    },
+    "titulo": "p6",
+    "descripcion": "3366"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/PanMasita/masitaDonSatur.jpg",
+        "alt": "Image 8"
+    },
+    "titulo": "p7",
+    "descripcion": "69846"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/PanMasita/alfajorMaizena.png",
+        "alt": "Image 9"
+    },
+    "titulo": "p8",
+    "descripcion": "111"
+    }
+
+]

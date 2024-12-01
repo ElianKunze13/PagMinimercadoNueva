@@ -1,0 +1,61 @@
+[{
+    "imagen":{
+        "url": "assets/ImgWeb/Verd/acelga.jpg",
+        "alt": "Image 1"},
+    "titulo": "v0",
+    "precio": "5485"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/Verd/cebolla.jpg",
+        "alt": "Image 2"},
+    "titulo": "v1",
+    "precio": "1000"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/Verd/lechuga.jpg",
+        "alt": "Image 3"},
+    "titulo": "v2",
+    "precio": "3555"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/Verd/papas.jpg",
+        "alt": "Image 4"},
+    "titulo": "v3",
+    "precio": "5155"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/Verd/repollo.jpg",
+        "alt": "Image 5"},
+    "titulo": "v4",
+    "precio": "548548"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/Verd/tomate.jpg",
+        "alt": "Image 6"
+    },
+    "titulo": "v5",
+    "precio": "55"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/Verd/zanahoria.jpg",
+        "alt": "Image 7"
+    },
+    "titulo": "v6",
+    "precio": "8548"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/Verd/zapallo.jpg",
+        "alt": "Image 8"
+    },
+    "titulo": "v7",
+    "precio": "5453"
+    }
+
+]

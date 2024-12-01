@@ -1,0 +1,109 @@
+<div id="fondocatalogo">
+<!--menu catalogo y btn lista de productosSeleccionados-->
+
+<div id="menucatalogo" style="padding: 2%;">
+<h2 style="font-family: Georgia, 'Times New Roman', Times, serif;font-weight: 600; margin: 2%;
+text-decoration:underline;justify-self: center;">CATALOGO PRODUCTOS</h2>
+
+
+<!--LISTA PRODUCTOS-->
+  <div class=" justify-content-evenly" id="catalogo">
+<!--bebidas-->
+    <div id="bebidas" class="row" style="border-color: rgb(255, 0, 0);">
+      <h3 style="background-color: rgb(248, 70, 70);">Bebidas</h3>
+      
+      <div class="card" *ngFor="let producto of cargarBebidas">
+        <img [src]="producto.imagen.url" [alt]="producto.imagen.alt">
+        <div class="card-body">
+          <h5 class="card-title">{{producto.titulo}}</h5>
+          <p class="card-text">{{producto.precio}}$</p>
+          <a class="btn btn-primary" >Agregar al carrito</a>
+        </div>
+      </div>
+      </div> 
+      
+<!--alimNoPer-->
+    <div id="noperecederos" class="row" style="border-color: rgb(129, 126, 126);">
+      <h3 style="background-color:rgb(129, 126, 126); ;">Alimentos No Perecederos</h3>
+      <div class="card" *ngFor="let producto of cargarAlimNoP">
+        <img [src]="producto.imagen.url" [alt]="producto.imagen.alt">
+        <div class="card-body">
+          <h5 class="card-title">{{producto.titulo}}</h5>
+          <p class="card-text">{{producto.precio}}$</p>
+          <a href="#" class="btn btn-primary">Agregar al carrito</a>
+        </div>
+      </div>
+    
+    </div> 
+<!--verduras-->
+    <div id="verduras" class="row" style="border-color: rgb(15, 185, 24);">
+      <h3 style="background-color:rgb(15, 185, 24);">Verduras/Hortalizas</h3>   
+      <div class="card" *ngFor="let producto of cargarVerduras">
+        <img [src]="producto.imagen.url" [alt]="producto.imagen.alt">
+        <div class="card-body">
+          <h5 class="card-title">{{producto.titulo}}</h5>
+          <p class="card-text">{{producto.precio}}$</p>
+          <a href="#" class="btn btn-primary">Agregar al carrito</a>
+        </div>
+      </div>
+    
+    </div> 
+<!--panificado-->
+    <div id="panificados" class="row" style="border-color: rgb(218, 198, 23);">
+      <h3 style="background-color:rgb(218, 198, 23);">Panificados</h3>
+      
+      <div class="card" *ngFor="let producto of cargarPanificados">
+        <img [src]="producto.imagen.url" [alt]="producto.imagen.alt">
+        <div class="card-body">
+          <h5 class="card-title">{{producto.titulo}}</h5>
+          <p class="card-text">{{producto.precio}}$</p>
+          <a href="#" class="btn btn-primary">Agregar al carrito</a>
+        </div>
+      </div>
+    
+    </div> 
+<!--dulces-->
+    <div id="dulces" class="row" style="border-color: rgb(247, 57, 174);">
+      <h3 style="background-color:rgb(247, 57, 174);">Dulces/Caramelos</h3>
+      
+      <div class="card" *ngFor="let producto of cargarDulces">
+        <img [src]="producto.imagen.url" [alt]="producto.imagen.alt">
+        <div class="card-body">
+          <h5 class="card-title">{{producto.titulo}}</h5>
+          <p class="card-text">{{producto.precio}}$</p>
+          <a href="#" class="btn btn-primary">Agregar al carrito</a>
+        </div>
+      </div>
+    
+    </div> 
+<!--asePers-->
+    <div id="aseopersonal" class="row" style="border-color: rgb(44, 164, 243);">
+      <h3 style="background-color:rgb(44, 164, 243)">Aseo Personal</h3>
+    
+      <div class="card" *ngFor="let producto of cargarAseoPer">
+        <img [src]="producto.imagen.url" [alt]="producto.imagen.alt">
+        <div class="card-body">
+          <h5 class="card-title">{{producto.titulo}}</h5>
+          <p class="card-text">{{producto.precio}}$</p>
+          <a href="#" class="btn btn-primary">Agregar al carrito</a>
+        </div>
+      </div>
+     
+  </div>
+<!--prodLimpieza-->
+    <div id="prodlimpieza" class="row" style="border-color: rgb(243, 134, 44);">
+      <h3 style="background-color:rgb(243, 134, 44);">Productos De Limpieza</h3>
+
+      <div class="card" *ngFor="let producto of cargarLimpieza">
+        <img [src]="producto.imagen.url" [alt]="producto.imagen.alt">
+        <div class="card-body">
+          <h5 class="card-title">{{producto.titulo}}</h5>
+          <p class="card-text">{{producto.precio}}$</p>
+          <a href="#" class="btn btn-primary">Agregar al carrito</a>
+        </div>
+      </div>
+    </div> 
+
+
+  </div>
+

@@ -1,0 +1,69 @@
+[{
+    "imagen":{
+        "url": "assets/ImgWeb/AlimNoP/arroz.jpg",
+        "alt": "Image 1"},
+    "titulo": "a0",
+    "precio": "0000"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/AlimNoP/arrozLucchetti.webp",
+        "alt": "Image 2"},
+    "titulo": "a1",
+    "precio": "0000"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/AlimNoP/biscochuelo.png",
+        "alt": "Image 3"},
+    "titulo": "a2",
+    "precio": "0000"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/AlimNoP/fideo1.webp",
+        "alt": "Image 4"},
+    "titulo": "a3",
+    "precio": "0000"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/AlimNoP/fideo2.jpg",
+        "alt": "Image 5"},
+    "titulo": "a4",
+    "precio": "0000"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/AlimNoP/fideo3.jpg",
+        "alt": "Image 6"
+    },
+    "titulo": "a5",
+    "precio": "0000"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/AlimNoP/harina.webp",
+        "alt": "Image 7"
+    },
+    "titulo": "a6",
+    "precio": "0000"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/AlimNoP/harina2.png",
+        "alt": "Image 8"
+    },
+    "titulo": "a7",
+    "precio": "0000"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/AlimNoP/harina3.webp",
+        "alt": "Image 9"
+    },
+    "titulo": "a8",
+    "precio": "0000"
+    }
+
+]

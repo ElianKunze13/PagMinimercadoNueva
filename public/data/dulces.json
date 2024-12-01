@@ -1,0 +1,61 @@
+[{
+    "imagen":{
+        "url": "assets/ImgWeb/Caramelos/alfGuaymallenBlanco.jpg",
+        "alt": "Image 1"},
+    "titulo": "d0",
+    "precio": "52"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/Caramelos/alfTriShot.webp",
+        "alt": "Image 2"},
+    "titulo": "d1",
+    "precio": "1520"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/Caramelos/carameloFlynnPaff.jpg",
+        "alt": "Image 3"},
+    "titulo": "d2",
+    "precio": "3275"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/Caramelos/caramelosMisky.jpg",
+        "alt": "Image 4"},
+    "titulo": "d3",
+    "precio": "7571"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/Caramelos/chicleBazooka.webp",
+        "alt": "Image 5"},
+    "titulo": "d4",
+    "precio": "64825853"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/Caramelos/chupetinPicoDulce.jpg",
+        "alt": "Image 6"
+    },
+    "titulo": "d5",
+    "precio": "3"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/Caramelos/dosCorazones.jpg",
+        "alt": "Image 7"
+    },
+    "titulo": "d6",
+    "precio": "688"
+    },{
+
+    "imagen":{
+        "url": "assets/ImgWeb/Caramelos/superAcidos.webp",
+        "alt": "Image 8"
+    },
+    "titulo": "d7",
+    "precio": "684"
+    }
+
+]
