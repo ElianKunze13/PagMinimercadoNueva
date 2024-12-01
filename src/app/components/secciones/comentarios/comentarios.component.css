@@ -1,0 +1,35 @@
+
+#fondocatalogo{
+    background-image: url(/assets/ImgWeb/imagenfondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 2%;
+}
+#contenedor{
+    background-color: rgb(168, 167, 167); 
+    margin: 2%; 
+    padding: 2%;
+    }
+#comentarios{
+        margin-left: 1%;
+    }
+#mostrar1{
+        margin: 1%;
+        background-color: gray;
+        color: black;
+        font-weight: 600;
+    }
+#mostrar1:hover {
+        background-color: rgb(47, 104, 228);
+        color: aliceblue;
+    }
+#borrar2{
+        margin: 1%;
+        background-color: gray;
+        color: black;
+        font-weight: 600;
+    }
+#borrar2:hover {
+        background-color: rgb(47, 104, 228);
+        color: aliceblue;
+    }

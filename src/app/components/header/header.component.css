@@ -1,6 +1,7 @@
 
 .navbar{
     background-color: rgb(240, 31, 31);
+    display: flex;
 }
 .navbar a{
     filter: brightness(100%);
